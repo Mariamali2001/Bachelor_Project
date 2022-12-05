@@ -1,0 +1,108 @@
+Id,Name,Gender,Field,Occupation,Age,Openness,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Interface_1,Interface_2,Interface_3,Interface_4,Interface_5,Interface_6,Interface_7,Interface_8,Interface_9,Interface_10,Interface_11,Interface_12,Interface_13,Interface_14,Interface_15,Interface_16,Interface_17,Extra_interface_1,Extra_interface_2,Test_Score
+1,Nouran khaled,Female,Cs,Senior Student,21,3,2,4,5,4,6,6,5,5,6,4,7,6,6,8,6,7,8,7,7,7,6,7,5,Green
+2,Tasneem Mohamed,Female,CS,Senior Student,21,4,5,3,2,1,8,7,7,6,8,9,9,5,3,8,8,7,9,8,8,7,8,6,9,Blue
+3,Omaima Ahmed,Female,CS,Senior Student,23,5,4,3,3,3,9,8.5,7,6,9,8,9,6,5,9,8,6,8,5,7,7,9,6,7,Green
+4,Maryam Walid,Female,CS,Student,20,4,3,5,5,1,6,5.5,5,6,6.5,5,7,5,4,5.5,6,6.5,7.5,7,7,8,7.5,6.5,9,Blue 
+5,Yehia Sameh,Male ,CS,Student,19,4,2,3,5,5,5,3,4,4,7,7,8,5,8,7,6,4,8,6,7,6,8,,,Green
+6,Abdelraouf Khorshed,Male ,CS,Student ,19,5,3,4,2,1,4,4,5,3,5,6,7,6,2,8,7,3,5,7,6,6,7,,,Blue
+7,Mohamed Osama,Male,CS,Student ,20,4,4,2,1,1,6,6,7,4,7,8,8,8,8,8,8.5,6.5,7,9,9,8,9,,,Gold
+8,Shahd Khattab,Female,CS,Student,19,4,2,3,3,5,10,10,10,6,10,3,3,2,2,10,6,8,5,6,8,7,10,,,Gold
+9,Jumana Amr,Female ,CS,Student ,20,5,5,4,4,4,9,8,10,8,9,6,6,6,6,8,9,7,5,9,9,9,10,,,Orange 
+10,Jouanna Tadros,Female,CS,Student,21,3,2,4,3,2,7,8,6,3,9,7,8,3,3,6,9,8,6,7,8,9,8,,,Orange
+11,Farah Mohamed,Female,Interpretatiin and written Translation,Senior Student,21,5,4,3,5,5,8,9,9.5,8,8,9,9.5,7,7,10,7,8,9.5,8,8.5,7,9.5,7,6,Blue 
+12,Kerolose Malak ,Male,CS,Senior Student,21,4,3,3,4,5,9,9,10,7,6,7,9,3,2,10,9,4,10,7,10,6,8,8,7,Gold
+13,Shahenda Magdy,Female,CS,Senior Student,21,4,2,4,2,5,6,5,4,7,8,4,9,6,7,2,3,7,6,8,7,7,5,5,1,Blue 
+14,Mohamed Mazen,Male,Cs,Senior Student,21,3,2.5,4,3.5,2,7,6.5,7,8,6,3,4.5,2,6,9,7,8.5,9.5,6,6.5,7,9.5,5,4,Green
+15,Farida Abou ward,Female,CS,Student,19,4.5,5,4.5,5,4,7,7,6,6,7,5,8,4,5,6,7,6,6,5,4,8,8,6,8,Gold
+16,Menna Singergy,Female,CS,Student ,20,5,4,4,3,3,8.5,9,9,4,8,6,7,4,7,9,6,3,9,4,4,10,10,4,3,Blue
+17,Sohila elhassan,Female,Business ,Senior Student,22,4,3,4,1,2,8,7,7,8,8,5,7,3,3,4,8,7,8,7,8,8,9,7,7,Blue
+18,Dina Khaled,Female ,Business ,Senior Student,22,4,4,3,4,3,6,5,4,4,6,6,7,3,3,7,7,3,8,7,5,6,4,1,5,Orange 
+19,Karim Amr,Male,CS,Senior Student,22,4,3,2,2,1,8,4,5,9,9,3,9,4,2,9,5,7,9,9,10,10,10,6,8,Gold
+20,Mariam Fathy,Female,Arts ordu,Senior Student,22,4,5,5,1,3,4,5,4,6,5,8,7,5,6,9,7,8,9,10,10,5,7,8,7,Gold
+21,Eman hany,Female,Interpretatiin and written Translation,Senior Student,21,5,4,3,5,2,3,3,2,4,2,6,6,4,4,6,5,3,7,7,4,5,7,3,7,Green
+22,Eman nadel,Female,Interpretatiin and written Translation,Senior Student,21,3,4,3,1,5,4,3,3,5,7,7,6,4,5,10,8,4,3,4,4,7,9,5,10,Gold
+23,Hashim Khaled,Male,Interpretatiin and written Translation,Senior Student,21,3,4,3,1,4,8,7,7,6,6,4,7,7,6,9,8,6,8,6,7,9,7,6,8,Gold
+24,Youusef Amr,Male,CS,Student,20,3,2,3,1,3,6,5,5,4,7.5,6,8,7.5,8,9,8,6.5,7.5,7.5,8,8,9,7,8,Orange
+25,Jana Elkasaby,Female,CS,Student,20,5,3.5,3,5,4,8,7,5,5,8,1,4.5,1,5,10,7,3,8,4,2,5,8,4,1,Orange 
+26,Rawan Abdrabou ,Female,CS,Student ,21,5,5,4,1,4,8,7,5,9,10,2,6,1,1,9,6,7,3,4,5,7,9,4,2,Blue
+27,Amr Desouky ,Male,CS,Software Engineer,37,5,5,5,3,3,8,7,7,6,8,2,2,2,2,6,9,4,6,6,6,9,8,4,2,Blue
+28,Farah Medhat,Female,CS,Senior Student,21,3,2,3,2,2,5,4,3,5,5,3,5,4,2,7,4,3,7,5,6,6,7,4,3,Orange
+29,Hanan Saad,Female,Archaeology,Art Teacher,46,3,4,5,4,5,8,8,8,7,8,9,9,9,9,8,9,9,8,8,8,9,7,8,9,Blue
+30,Mawauda Mohamed ,Female,Language and Translation ,Student,18,3,2,4,1,2,6,6,6,6,6,3,8,1,1,7,6,6,6,7,7,6,6,6,3,Gold
+31,Mohamed Ali,Male,Mass Communication,Journalist,52,4,3,3,5,3,7,6,5,7.5,6,7.5,8,6,5,6,6,8,8,8,8,7,7,7,6,Gold
+32,Dima Shaheen,Female,CS,Senior Student,21,4,4,3,1.5,4,5,3,5,7,7,3,5,2,1,7,8,2,9,8,8,7,5,7,6,Gold
+33,Jomana Alaa,Female,IGCSE ,IG Student,15,5,3,3,2,4,10,10,8,9,9,8,10,7,8,10,9,7,10,8,8,9,10,7,9,Green
+34,Sohile Arafa ,Female,CS,Senior Student,21,3,5,4,4,5,8,8,8,9,5,3,7,1,6,10,10,8,10,9,6,7,10,9,4,Gold
+35,Mariam Reda,Female ,CS,Student,20,4,2,3,3.5,5,9.5,8.5,8,9.5,9,8,8.5,5,5,9,8.5,7.5,8,8.5,10,7,9,7,8,Orange
+36,Omar Mohamed,Male,CS,Student,21,4,2,3,1,4,6,8,7,6,6,6,6,7,6,8,6.5,5,7,7,6,7.5,7,6,6.5,Orange 
+37,Sara Hisham,Female,Engineering,Senior Student,21,4,5,3,3,3,5,6,6,4,6,8,10,1,1,10,5,4,6,3,4,6,7,8,6,Blue
+38,Youssef Mohamed,Male,Veterinary Medicine,Student,19,4,4,2,4,3,8,9,9,9,7,6,10,8,4,10,10,7,9,10,8,7,10,9,8,Orange
+39,Nahla Sabry,Female,Art Sociology,Housewife,38,5,5,5,1,5,8,5,9,9,9,9,7,1,1,9,5,5,10,10,10,5,5,9,5,Blue
+40,Mariam Mostafa,Female ,Art Drama and Theatre Criticism,Senior Student,22,5,5,4,3,3,4,6,4,10,4,2,3,4,5,10,3,5,7,10,6,9,2,10,1,Gold
+41,Rita Elias,Female,CS,Senior Student,22,5,4,3.5,5,4,7,7,6,6,8,5,7,4,3,9,8,3,7,9,8,8,9,5,5,Orange
+42,Heba Mostafa,Female,Law,Senior Student,21,2,5,3,1,5,10,8,8,9,7,8,7,6,6,8,7,8,7,7,7,9,7,8,7,Blue
+43,Hassan Hatem,Male,Computer Science ,Frontend Engineer,24,3,2,4,4,5,7,7,6,6,8,9,9,6,6,10,7,5,10,8,10,10,10,6,7,Green
+44,Mohamed Hisham ,Male,Electro Mechanical,Student,21,2,1,3,1,4,7,7,6,5,5,5,8,6,6,10,5,7,8,4,4,5,6,4,10,Green
+45,Youssef Amir ,Male,CS,Senior Student,21,5,4,5,2,4,3,2,4,4,5,3,7,4,5,8,4,5,3,5,4,7,6,3,5,Gold
+46,Nadine Nashat,Female,CS,Student,19,2,1,3,3,5,8,4,5,4,5,2,2,2,2,8,8,3,3,3,3,4,3,2,2,Green
+47,Mazen Farouk,Male,Engineering,Student,21,4,3,2,4,2,8,6,5,9,7,8,8,8,8,9,9,8,10,10,9,9,10,9,8,Orange 
+48,Habiba Diaa,Female,Mass Communication,Senior Student,21,4,2,3,1,4,10,5,8,7,8,7,7,6,6,9,10,9,5,7,6,7,8,8,7,Orange
+49,Mahmoud Ali,Male,Business ,Student,19,4,5,2,1,2,5,5,6,6,5,9,9,5,7,10,8,6,10,10,10,5,5,7,5,Blue
+50,Mostafa Ali,Male,Engineering,Civil Engineer,24,4,3,4,4,5,8,6,6,8,7,5,4,2,1,10,8,7,8,7.5,6.5,7.5,8,8,9,Gold
+51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,Mariam Ali,CS,Senior Student,21,,,,,,,,,,,,,,,,,,,,,,,,,,
+                                                                                                                         Duplicates (Have two equal values of color),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,Omar Mohamed,Male,CS,Student,21,4,2,3,1,4,6,8,7,6,6,6,6,7,6,8,6.5,5,7,7,6,7.5,7,6,6.5,Green
+102,Jouanna Tadros,Female,CS,Student,21,3,2,4,3,2,7,8,6,3,9,7,8,3,3,6,9,8,6,7,8,9,8,,,Blue
+103,Farah Mohamed,Female,Interpretatiin and written Translation,Senior Student,21,5,4,3,5,5,8,9,9.5,8,8,9,9.5,7,7,10,7,8,9.5,8,8.5,7,9.5,7,6,Orange  
+104,Farah Mohamed,Female,Interpretatiin and written Translation,Senior Student,21,5,4,3,5,5,8,9,9.5,8,8,9,9.5,7,7,10,7,8,9.5,8,8.5,7,9.5,7,6,Gold  
+105,Menna Singergy,Female,CS,Student ,20,5,4,4,3,3,8.5,9,9,4,8,6,7,4,7,9,6,3,9,4,4,10,10,4,3,Gold
+106,Mazen Farouk,Male,Engineering,Student,21,4,3,2,4,2,8,6,5,9,7,8,8,8,8,9,9,8,10,10,9,9,10,9,8,Gold
